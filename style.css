@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.background-wrapper {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(
+    to right,
+    rgb(142, 233, 255),
+    rgb(255, 0, 0)
+  );
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  letter-spacing: 4px;
+}
+
+.color-selectors {
+  text-align: center;
+  padding: 1rem 0;
+}
