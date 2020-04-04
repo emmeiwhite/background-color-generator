@@ -21,9 +21,13 @@ body {
 h1 {
   text-transform: uppercase;
   text-align: center;
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: 400;
   letter-spacing: 4px;
+}
+
+p {
+  text-align: center;
 }
 
 .color-selectors {
